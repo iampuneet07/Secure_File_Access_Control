@@ -36,11 +36,10 @@ Secure File Access Control is a system that provides secure authentication, acce
    ```
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/41636e51-fb30-4d93-b3c1-aefefde47686)
-![Screenshot 2025-03-27 004229](https://github.com/user-attachments/assets/7a14a0c2-58ba-47f0-8fca-2abe5ecf2d7d)
-![image](https://github.com/user-attachments/assets/7d064785-59f2-41fd-aee0-05d0872da126)
 
-
+![Screenshot 2025-03-27 004004](https://github.com/user-attachments/assets/0269e903-d089-4a20-8b98-74a0c2a516f7)
+![Screenshot 2025-03-27 004229](https://github.com/user-attachments/assets/a10b634b-0392-4993-820f-98195c3527f8)
+![Screenshot 2025-03-27 004254](https://github.com/user-attachments/assets/c1a9e08b-77e4-49a4-9e8f-81fee5163370)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
